@@ -14,9 +14,9 @@ This repository serves as a centralized hub for:
 
 | Directory | Description |
 | :--- | :--- |
-| `[Instructor/](file:///c:/Users/Aaay-Bii/Desktop/Vibe-Coding-Projects/Instructor/)` | Material, examples, and resources provided by the course instructor. |
-| `[Students/](file:///c:/Users/Aaay-Bii/Desktop/Vibe-Coding-Projects/Students/)` | Individual student folders named as `Name-SapID`. |
-| `[Collaborative-Projects/](file:///c:/Users/Aaay-Bii/Desktop/Vibe-Coding-Projects/Collaborative-Projects/)` | Shared projects developed by multiple students or teams. |
+| `[Instructor/](./Instructor/)` | Material, examples, and resources provided by the course instructor. |
+| `[Students/](./Students/)` | Individual student folders named as `Name-SapID`. |
+| `[Collaborative-Projects/](./Collaborative-Projects/)` | Shared projects developed by multiple students or teams. |
 
 ---
 
@@ -68,7 +68,7 @@ To keep the repository organized, please use the following tags when raising iss
 
 1.  **Students**: Create your own directory in the `Students/` folder following the naming convention: `FirstNameLastName-SapID`.
 2.  **Projects**: Each project should have its own sub-directory within your student folder or the `Collaborative-Projects` directory.
-3.  **Guidelines**: Please read our `[CONTRIBUTING.md](file:///c:/Users/Aaay-Bii/Desktop/Vibe-Coding-Projects/CONTRIBUTING.md)` for detailed submission and collaboration rules.
+3.  **Guidelines**: Please read our `[CONTRIBUTING.md](./CONTRIBUTING.md)` for detailed submission and collaboration rules.
 
 ## ⚖️ Guidelines
 - Respect the collaborative environment.
