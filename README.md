@@ -1,31 +1,78 @@
-# Product Recommender
+# AI Driven Development Course - Project Repository
 
-## Overview
-The Product Recommender is an application designed to provide personalized product recommendations based on user preferences and product data. It utilizes advanced algorithms to analyze user behavior and suggest products that are likely to be of interest.
+Welcome to the official repository for the AI Driven Development Course! This space is designed for collaborative learning, project showcasing, and instructor review.
 
-## Features
-- Personalized product recommendations
-- User preference analysis
-- Easy integration with existing systems
+## 🚀 Repository Purpose
+This repository serves as a centralized hub for:
+- **Individual Learning**: Students submit and track their progress.
+- **Collaboration**: Building scalable AI projects as a team.
+- **Review & Feedback**: Instructors can review and provide guidance on student work.
 
-## Installation
-To install the necessary dependencies, please run the following command:
+---
 
+## 📁 Directory Structure
+
+| Directory | Description |
+| :--- | :--- |
+| `[Instructor/](./Instructor/)` | Material, examples, and resources provided by the course instructor. |
+| `[Students/](./Students/)` | Individual student folders named as `Name-SapID`. |
+| `[Collaborative-Projects/](./Collaborative-Projects/)` | Shared projects developed by multiple students or teams. |
+
+---
+
+## 🍴 Forking & Contributing
+
+To contribute your project or participate in collaborative work, follow these steps:
+
+### 1. Fork the Repository
+Click the **Fork** button at the top right of this page to create a copy of the repository in your own GitHub account.
+
+### 2. Clone Your Fork
+Clone your forked repository to your local machine:
+```bash
+git clone https://github.com/YOUR_USERNAME/Vibe-Coding-Projects.git
 ```
-pip install -r requirements.txt
+
+### 3. Create Your Student Folder
+Navigate to the `Students/` directory and create your personal folder:
+```bash
+mkdir Students/FirstNameLastName-SapID
 ```
 
-## Usage
-To run the application, execute the following command:
-
+### 4. Commit and Push
+Add your project files, commit your changes, and push them to your fork:
+```bash
+git add .
+git commit -m "feat: Add [Project Name] to [Your Name]"
+git push origin main
 ```
-python src/main.py
-```
 
-This will initialize the application, load the required data, and start the recommendation process.
+### 5. Open a Pull Request
+Go to the original repository on GitHub and click **New Pull Request**. Ensure you use the provided template to describe your submission.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## 🏷️ Issue Tags & Policy
+
+To keep the repository organized, please use the following tags when raising issues:
+
+- `student-help`: Issues seeking guidance or clarification on coursework.
+- `project-proposal`: Proposing a new individual or collaborative project.
+- `bug`: Technical issues or bugs found in collaborative projects.
+- `instructor-review`: Used by students to signal that a project is ready for review.
+- `collaboration-wanted`: Requests for other students to join a project.
+
+---
+
+## 📖 Getting Started
+
+1.  **Students**: Create your own directory in the `Students/` folder following the naming convention: `FirstNameLastName-SapID`.
+2.  **Projects**: Each project should have its own sub-directory within your student folder or the `Collaborative-Projects` directory.
+3.  **Guidelines**: Please read our `[CONTRIBUTING.md](./CONTRIBUTING.md)` for detailed submission and collaboration rules.
+
+## ⚖️ Guidelines
+- Respect the collaborative environment.
+- Follow the project submission templates provided in the PR descriptions.
+- Use issues for constructive feedback and proposals.
+
+---
