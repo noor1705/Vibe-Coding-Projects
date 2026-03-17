@@ -24,15 +24,18 @@ This repository serves as a centralized hub for:
 
 To contribute your project or participate in collaborative work, follow these steps:
 
-### 1. Fork the Repository
+### 1. Fork the Repository (Optional if you want to have all access to yourself as well in your own account)
 Click the **Fork** button at the top right of this page to create a copy of the repository in your own GitHub account.
 
-### 2. Clone Your Fork
+### 2. Clone Repository
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/Muhammad-Abdullah3/Vibe-Coding-Projects.git
+```
 Clone your forked repository to your local machine:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Vibe-Coding-Projects.git
+git clone https://github.com/Your_UserName/Vibe-Coding-Projects.git
 ```
-
 ### 3. Create Your Student Folder
 Navigate to the `Students/` directory and create your personal folder:
 ```bash
